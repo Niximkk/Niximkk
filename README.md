@@ -5,6 +5,6 @@ console.log(`"Sim, eu uso crack..." - MC VV`);
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,cpp,nodejs,express,electron,npm,py,zig,lua,html,css,js,vscode,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,nodejs,express,electron,npm,py,zig,lua,html,css,js,vscode,cloudflare" />
   </a>
 </p>
