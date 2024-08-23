@@ -28,7 +28,7 @@ Participei no desenvolvimento contínuo do firmware Bruce, uma solução robusta
 [Repositório GitHub](https://github.com/Niximkk/LilBruce)
 
 **KS-Grabber**  
-Desenvolvi o KS-Grabber, um payload de injeção de teclas projetado para realizar ataques rápidos e indetectáveis em dispositivos-alvo. Escrito em PowerShell, este agente malicioso simula um teclado para executar comandos de forma extremamente rápida, possibilitando a extração de dados sensíveis em questão de segundos, sem levantar suspeitas.  
+Desenvolvi o KS-Grabber, um payload de injeção de teclas projetado para realizar ataques rápidos e indetectáveis em dispositivos-alvo. Escrito em PowerShell, este ataque simula um teclado para executar comandos de forma extremamente rápida, possibilitando a execução de agentes maliciosos como o KS-Grabber e consequentemente a extração de dados sensíveis em questão de segundos, sem levantar suspeitas.  
 **Tecnologias Utilizadas:** Visual Studio Code, PowerShell  
 [Repositório GitHub](https://github.com/Niximkk/ks-grabber)
 
