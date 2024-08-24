@@ -39,7 +39,7 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
 [Documentação GitHub](https://github.com/Niximkk/m5burner-endpoints)
 
 ### **Habilidades Técnicas:**
-- **Linguagens:** JavaScript, C++, Python, HTML, CSS
+- **Linguagens:** JavaScript, C++, Python, Lua, HTML, CSS
 - **Ferramentas:** Visual Studio Code, NodeJS, NPM, PKG, Arduino IDE, PlatformIO, Git, GitHub
 - **Outras Competências:** Uso de Inteligência Artificial para otimização de processos e resolução de problemas complexos
 - **Certificações:** Curso online SENAI "Por Dentro da Segurança Cibernética", duração de 4 horas (17/05/2024 a 18/05/2024)
