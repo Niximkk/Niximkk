@@ -43,7 +43,8 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
 - **Ferramentas:** Visual Studio Code, NodeJS, NPM, PKG, Arduino IDE, PlatformIO, Git, GitHub
 - **Outras Competências:** Uso de Inteligência Artificial para otimização de processos e resolução de problemas complexos
 - **Certificações:** 
-  - Curso online SENAI "Por Dentro da Segurança Cibernética", duração de 4 horas (17/05/2024 a 18/05/2024)
+  - [Curso online SENAI "Por Dentro da Segurança Cibernética"](https://www.sp.senai.br/consulta-certificado?qrcode=00027511/7777700), duração de 4 horas (17/05/2024 a 18/05/2024)
+  - [Curso online SENAI "Competência Transversal - Lógica De Programação"](https://www.sp.senai.br/consulta-certificado?qrcode=00027091/7777700), duração de 14 horas (03/09/2024 a 04/09/2024)
   - [Curso online Certiprof "Cybersecurity Awareness Professional Certification"](https://app.kajabi.com/certificates/5a20c480), duração de 2 horas (03/09/2024)
 
 ### **Idiomas:**
