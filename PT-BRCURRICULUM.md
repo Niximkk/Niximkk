@@ -54,9 +54,3 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
 
 ### **Atividades Extracurriculares:**
 Voluntário ativo em projetos colaborativos de TI, contribuindo para o desenvolvimento e aprimoramento de ferramentas de código aberto.
-
-<p align="center">
-  <a href="https://emoji.gg/emoji/5349-hellokittybyebye">
-    <img src="https://cdn3.emoji.gg/emojis/5349-hellokittybyebye.png" width="128px" height="128px" alt="HelloKittyByeBye">
-  </a>
-</p>
