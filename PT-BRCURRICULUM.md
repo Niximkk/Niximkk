@@ -46,6 +46,10 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
   - [Curso online SENAI "Por Dentro da Segurança Cibernética"](https://www.sp.senai.br/consulta-certificado?qrcode=00027511/7777700), duração de 4 horas (17/05/2024 a 18/05/2024)
   - [Curso online SENAI "Competência Transversal - Lógica De Programação"](https://www.sp.senai.br/consulta-certificado?qrcode=00027091/7777700), duração de 14 horas (03/09/2024 a 04/09/2024)
   - [Curso online Certiprof "Cybersecurity Awareness Professional Certification"](https://app.kajabi.com/certificates/5a20c480), duração de 2 horas (03/09/2024)
+  - [Curso online Solyd Offensive Security "Python Básico"](https://solyd.com.br/verificar/jkCWE9AcoC/), duração de 8 horas (10/12/2024)
+  - [Curso online Solyd Offensive Security "Workshop Android Pentester"](https://solyd.com.br/verificar/XdlVnIc7y6/), duração de 4 horas (10/12/2024)
+  - [Curso online Solyd Offensive Security "Introdução ao Hardware Hacking"](https://solyd.com.br/verificar/JCGokOmmS0/), duração de 6 horas e 40 minutos (10/12/2024)
+  - [Curso online Solyd Offensive Security "Introdução ao Hacking e Pentest 2.0"](https://solyd.com.br/verificar/Rc0V2gykDV/), duração de 8 horas (10/12/2024)
 
 ### **Idiomas:**
 - **Inglês:** Avançado
