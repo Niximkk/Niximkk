@@ -49,7 +49,8 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
   - [Curso online Solyd Offensive Security "Python Básico"](https://solyd.com.br/verificar/jkCWE9AcoC/), duração de 8 horas (10/12/2024)
   - [Curso online Solyd Offensive Security "Workshop Android Pentester"](https://solyd.com.br/verificar/XdlVnIc7y6/), duração de 4 horas (10/12/2024)
   - [Curso online Solyd Offensive Security "Introdução ao Hardware Hacking"](https://solyd.com.br/verificar/JCGokOmmS0/), duração de 6 horas e 40 minutos (10/12/2024)
-  - [Curso online Solyd Offensive Security "Introdução ao Hacking e Pentest 2.0"](https://solyd.com.br/verificar/Rc0V2gykDV/), duração de 8 horas (10/12/2024)
+  - [Curso Fundação Bradesco SEGURANÇA EM TECNOLOGIA DA INFORMAÇÃO](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20SEGURAN%C3%87A%20EM%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%83O.pdf), duração de 12 horas (16/01/2025)
+  - [Curso Ciência da Computação de Harvard no Brasil](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20de%20Harvard%20no%20Brasil.pdf), duração de 70 horas (11/12/2024)
 
 ### **Idiomas:**
 - **Inglês:** Avançado
