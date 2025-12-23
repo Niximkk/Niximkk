@@ -55,8 +55,6 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
 
 ### **Idiomas:**
 - **Inglês:** Avançado
-- **Russo:** Iniciante
-- **Português:** Nativo
 
 ### **Atividades Extracurriculares:**
 Voluntário ativo em projetos colaborativos de TI, contribuindo para o desenvolvimento e aprimoramento de ferramentas de código aberto.
