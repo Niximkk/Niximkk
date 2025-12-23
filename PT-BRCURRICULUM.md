@@ -27,10 +27,13 @@ Participei no desenvolvimento do firmware Bruce, uma solução robusta para hack
 **Tecnologias Utilizadas:** Visual Studio Code, PlatformIO, C++  
 [Repositório GitHub](https://github.com/Niximkk/LilBruce)
 
-**KS-Grabber**  
-Desenvolvi o KS-Grabber, um payload de injeção de teclas projetado para realizar ataques rápidos e indetectáveis em dispositivos-alvo. Escrito em PowerShell, este ataque simula um teclado para executar comandos de forma extremamente rápida, possibilitando a execução de agentes maliciosos como o KS-Grabber e consequentemente a extração de dados sensíveis em questão de segundos, sem levantar suspeitas.  
-**Tecnologias Utilizadas:** Visual Studio Code, PowerShell  
-[Repositório GitHub](https://github.com/Niximkk/ks-grabber)
+**Khanware**  
+Script injetável via bookmarklet voltado ao estudo e aplicação de técnicas avançadas de modificação de aplicações web no lado do cliente. Utiliza JavaScript para monkey patching, manipulação do DOM e interceptação de funções em tempo de execução, permitindo alterar dinamicamente o comportamento do site diretamente no navegador.
+
+O projeto possui estrutura modular, menu interativo e múltiplos modos de execução, com foco no aprofundamento em JavaScript avançado e análise de aplicações web complexas.
+
+**Tecnologias Utilizadas:** JavaScript (ES6+), Bookmarklet, DOM API, Monkey Patching, Git  
+[Repositório GitHub](https://github.com/Niximkk/khanware)
 
 ### **Conquistas em Bug Bounty:**
 
