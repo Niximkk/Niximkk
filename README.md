@@ -10,8 +10,8 @@ console.log(`Hey Vsauce. Michael here, your system is very safe... Or is it?`);
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=niximkk&theme=dracula&show_icons=true&include_all_commits=true" alt="Niximkk's GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niximkk&theme=dracula&layout=compact" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats-fmb.vercel.app/api?username=niximkk&theme=dracula&show_icons=true&include_all_commits=true" alt="Niximkk's GitHub stats" />
+  <img height="150" src="https://github-readme-stats-fmb.vercel.app/api/top-langs/?username=niximkk&theme=dracula&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
