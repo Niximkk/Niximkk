@@ -5,7 +5,7 @@ muriloleopisi1@gmail.com
 [GitHub](https://github.com/Niximkk) - [Linkedin](https://www.linkedin.com/in/niximkk/)
 
 ### **Objetivo Profissional:**
-Entusiasta por desenvolvimento de sistemas e segurança cibernética, procuro uma oportunidade para aplicar e expandir minhas habilidades em programação e hardware hacking, contribuindo ativamente para projetos inovadores e desafiadores na área de TI.
+Técnico em Desenvolvimento de Sistemas, com foco em programação e segurança cibernética, buscando oportunidade para aplicar e aprimorar conhecimentos em desenvolvimento de software e hardware, contribuindo para soluções tecnológicas inovadoras na área de TI.
 
 ### **Formação Acadêmica:**
 **Técnico em Desenvolvimento de Sistemas**
@@ -13,7 +13,7 @@ Entusiasta por desenvolvimento de sistemas e segurança cibernética, procuro um
 FIEC - Fundação Indaiatubana de Educação e Cultura
 
 ### **Experiência Profissional:**
-Ainda não possuo experiência profissional formal, mas tenho desenvolvido e contribuído para diversos projetos pessoais e colaborativos na área de TI.
+Ainda não possuo experiência profissional formal, porém desenvolvo projetos pessoais e colaborativos na área de TI, aplicando na prática conhecimentos em desenvolvimento de sistemas, programação e tecnologia.
 
 ### **Projetos Pessoais e Acadêmicos:**
 
