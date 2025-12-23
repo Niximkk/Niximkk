@@ -17,12 +17,12 @@ Ainda não possuo experiência profissional formal, mas tenho desenvolvido e con
 
 ### **Projetos Pessoais e Acadêmicos:**
 
-**F-Nemo**  
+**F-Nemo**
 Um fork avançado do projeto M5Nemo, focado em hardware hacking para microcontroladores ESP32, especificamente devboards da M5Stack. O projeto foi adaptado com novas funcionalidades requisitadas pela comunidade, visando aprimorar o potencial de exploração de hardware. O diferencial deste projeto é a ênfase em capacitar os usuários a compilar seu próprio firmware, promovendo o aprendizado independente e a personalização.  
 **Tecnologias Utilizadas:** Arduino IDE, C++  
 [Repositório GitHub](https://github.com/Niximkk/f-nemo)
 
-**Bruce**  
+**Bruce**
 Participei no desenvolvimento do firmware Bruce, uma solução robusta para hacking de hardware, abrangendo tecnologias como radiofrequência, infravermelho e RFID. Este projeto, tornou-se um dos mais completos na comunidade de segurança cibernética, e hoje sou um dos desenvolvedores voluntários dedicados a expandir suas capacidades.  
 **Tecnologias Utilizadas:** Visual Studio Code, PlatformIO, C++  
 [Repositório GitHub](https://github.com/Niximkk/LilBruce)
