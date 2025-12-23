@@ -1,8 +1,8 @@
 **Murilo Leopisi de Camargo**  
 Sorocaba, SP  
 +55 15 99135-9186  
-contato@lobotomy.space  
 [GitHub](https://github.com/Niximkk)
+muriloleopisi1@gmail.com
 
 ### **Objetivo Profissional:**
 Entusiasta por desenvolvimento de sistemas e segurança cibernética, procuro uma oportunidade para aplicar e expandir minhas habilidades em programação e hardware hacking, contribuindo ativamente para projetos inovadores e desafiadores na área de TI.
