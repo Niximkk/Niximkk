@@ -5,7 +5,7 @@ console.log(`Hey Vsauce. Michael here, your system is very safe... Or is it?`);
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,arduino,c,cpp,nodejs,express,electron,npm,py,zig,lua,html,css,js,vscode,cloudflare" alt="Skills" />
+    <img src="https://i.icoziv.workers.dev/icons?i=javascript,nodejs,expressjs,npm,html,css,linux,ssh,samba,ftp,dns,docker,dockercompose,portainer,cloudflare,githubactions,git,github,vscode,postman,insomnia,markdown,python,c,cpp,lua,burpsuite,wireshark,arduino,platformio" />
   </a>
 </p>
 
