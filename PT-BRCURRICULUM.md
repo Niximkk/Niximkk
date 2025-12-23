@@ -1,8 +1,8 @@
 **Murilo Leopisi de Camargo**  
 Sorocaba, SP  
 +55 15 99135-9186  
-[GitHub](https://github.com/Niximkk)
 muriloleopisi1@gmail.com
+[GitHub](https://github.com/Niximkk) - [Linkedin](https://www.linkedin.com/in/niximkk/)
 
 ### **Objetivo Profissional:**
 Entusiasta por desenvolvimento de sistemas e segurança cibernética, procuro uma oportunidade para aplicar e expandir minhas habilidades em programação e hardware hacking, contribuindo ativamente para projetos inovadores e desafiadores na área de TI.
