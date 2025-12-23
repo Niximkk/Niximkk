@@ -8,8 +8,8 @@ muriloleopisi1@gmail.com
 Técnico em Desenvolvimento de Sistemas, com foco em programação e segurança cibernética, buscando oportunidade para aplicar e aprimorar conhecimentos em desenvolvimento de software e hardware, contribuindo para soluções tecnológicas inovadoras na área de TI.
 
 ### **Formação Acadêmica:**
-**Técnico em Desenvolvimento de Sistemas**
-2023 - 2025
+**Técnico em Desenvolvimento de Sistemas**  
+2023 - 2025  
 FIEC - Fundação Indaiatubana de Educação e Cultura
 
 ### **Experiência Profissional:**
