@@ -8,9 +8,9 @@ muriloleopisi1@gmail.com
 Entusiasta por desenvolvimento de sistemas e segurança cibernética, procuro uma oportunidade para aplicar e expandir minhas habilidades em programação e hardware hacking, contribuindo ativamente para projetos inovadores e desafiadores na área de TI.
 
 ### **Formação Acadêmica:**
-**E.E. Ana Cecília Martins**  
-Técnico em Desenvolvimento de Sistemas  
-Previsão de Conclusão: 2025
+**Técnico em Desenvolvimento de Sistemas**
+2023 - 2025
+FIEC - Fundação Indaiatubana de Educação e Cultura
 
 ### **Experiência Profissional:**
 Ainda não possuo experiência profissional formal, mas tenho desenvolvido e contribuído para diversos projetos pessoais e colaborativos na área de TI.
