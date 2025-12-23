@@ -23,7 +23,7 @@ Um fork avançado do projeto M5Nemo, focado em hardware hacking para microcontro
 [Repositório GitHub](https://github.com/Niximkk/f-nemo)
 
 **Bruce**  
-Participei no desenvolvimento contínuo do firmware Bruce, uma solução robusta para hacking de hardware, abrangendo tecnologias como radiofrequência, infravermelho e RFID. Este projeto, tornou-se um dos mais completos na comunidade de segurança cibernética, e hoje sou um dos desenvolvedores voluntários dedicados a expandir suas capacidades.  
+Participei no desenvolvimento do firmware Bruce, uma solução robusta para hacking de hardware, abrangendo tecnologias como radiofrequência, infravermelho e RFID. Este projeto, tornou-se um dos mais completos na comunidade de segurança cibernética, e hoje sou um dos desenvolvedores voluntários dedicados a expandir suas capacidades.  
 **Tecnologias Utilizadas:** Visual Studio Code, PlatformIO, C++  
 [Repositório GitHub](https://github.com/Niximkk/LilBruce)
 
