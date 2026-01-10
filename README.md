@@ -39,7 +39,6 @@ I'm **Murilo Leopisi de Camargo**, also known as **Nix**, an **aspiring Cybersec
     <br><br>
     <img width="30px" src="https://i.icoziv.workers.dev/icons?i=linux" />
     <img width="30px" src="https://i.icoziv.workers.dev/icons?i=docker" />
-    <img width="30px" src="https://i.icoziv.workers.dev/icons?i=compose" />
     <img width="30px" src="https://i.icoziv.workers.dev/icons?i=cloudflare" />
     <img width="30px" src="https://i.icoziv.workers.dev/icons?i=filezilla" />
   </kbd>
