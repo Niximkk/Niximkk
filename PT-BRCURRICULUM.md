@@ -59,6 +59,8 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
   - [Curso online Cisco "Ethical Hacker"](https://www.credly.com/badges/6f3832af-ec12-4725-b2ad-686fc81c6450/linked_in_profile), (09/12/2025) Também disponível em: [Certificado](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20Ethical%20Hacker%20Cisco.pdf)
   - [Curso online Cisco "Cyber Threat Management"](https://www.credly.com/badges/c2f946eb-370f-49db-b551-99d99763a296/linked_in_profile), (09/12/2025) Também disponível em: [Certificado](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20Gerenciamento%20de%20Amea%C3%A7as%20Cibern%C3%A9ticas%20-%20Centro%20Paula%20Souza%20Cisco.pdf)
   - [Curso online Desec "Introdução ao Pentest na Prática"](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20%20Introdução%20ao%20Pentest%20na%20Prática%20Desec.pdf), duração de 2 horas (30/12/2025)
+  - [Curso online Red Team Leaders "Certified Cybersecurity Educator Professional"](https://courses.redteamleaders.com/exam-completion/88743ac175ecdb13), (22/01/2026) Também disponível em: [Certificado](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20Certified%20Cybersecurity%20Educator%20Professional%20(CCEP).pdf)
+  
 ### **Idiomas:**
 - **Inglês:** Avançado
 
