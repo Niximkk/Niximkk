@@ -12,8 +12,17 @@ Técnico em Desenvolvimento de Sistemas, com foco em programação e segurança 
 2023 - 2025  
 FIEC - Fundação Indaiatubana de Educação e Cultura
 
+**Tecnólogo em Desenvolvimento de Software Multiplataforma**  
+2026 - 2029  
+FATEC Votorantim – Faculdade de Tecnologia de Votorantim  
+
 ### **Experiência Profissional:**
-Ainda não possuo experiência profissional formal, porém desenvolvo projetos pessoais e colaborativos na área de TI, aplicando na prática conhecimentos em desenvolvimento de sistemas, programação e tecnologia.
+**Auxiliar de Montagem (Produção)**  
+Flex – Sorocaba, SP  
+2026 - 2027  
+
+Possuo experiência prática por meio de projetos pessoais, colaborativos e contrato profissional com início previsto, aplicando conhecimentos técnicos, disciplina operacional e aprendizado contínuo.
+
 
 ### **Projetos Pessoais e Acadêmicos:**
 
