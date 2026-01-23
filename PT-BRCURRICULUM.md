@@ -41,6 +41,9 @@ O projeto possui estrutura modular, menu interativo e múltiplos modos de execu�
 Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, que permitiam a execução remota de comandos maliciosos através da manipulação de interfaces REST. Este trabalho resultou na criação de um exploit que foi reconhecido e recompensado em um programa de bug bounty. A documentação completa, incluindo o método de exploração, está disponível no repositório.  
 [Documentação GitHub](https://github.com/Niximkk/m5burner-endpoints)
 
+### **Idiomas:**
+- **Inglês:** Avançado
+
 ### **Habilidades Técnicas:**
 - **Linguagens:** JavaScript, C++, Python, Lua, HTML, CSS
 - **Ferramentas:** Visual Studio Code, NodeJS, NPM, PKG, Arduino IDE, PlatformIO, Git, GitHub
@@ -61,8 +64,3 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
   - [Curso online Desec "Introdução ao Pentest na Prática"](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20%20Introdução%20ao%20Pentest%20na%20Prática%20Desec.pdf), duração de 2 horas (30/12/2025)
   - [Curso online Red Team Leaders "Certified Cybersecurity Educator Professional"](https://courses.redteamleaders.com/exam-completion/88743ac175ecdb13), (22/01/2026) Também disponível em: [Certificado](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20Certified%20Cybersecurity%20Educator%20Professional%20(CCEP).pdf)
   
-### **Idiomas:**
-- **Inglês:** Avançado
-
-### **Atividades Extracurriculares:**
-Voluntário ativo em projetos colaborativos de TI, contribuindo para o desenvolvimento e aprimoramento de ferramentas de código aberto.
