@@ -8,13 +8,17 @@ muriloleopisi1@gmail.com
 Técnico em Desenvolvimento de Sistemas, com foco em programação e segurança cibernética, buscando oportunidade para aplicar e aprimorar conhecimentos em desenvolvimento de software e hardware, contribuindo para soluções tecnológicas inovadoras na área de TI.
 
 ### **Formação Acadêmica:**
+**Tecnólogo em Cibersegurança**  
+2026 - 2028 (Em andamento)  
+Universidade Anhanguera  
+
+**Tecnólogo em Desenvolvimento de Software Multiplataforma**  
+2026 - 2029 (Em andamento)  
+FATEC Votorantim – Faculdade de Tecnologia de Votorantim  
+
 **Técnico em Desenvolvimento de Sistemas**  
 2023 - 2025  
 FIEC - Fundação Indaiatubana de Educação e Cultura
-
-**Tecnólogo em Desenvolvimento de Software Multiplataforma**  
-2026 - 2029  
-FATEC Votorantim – Faculdade de Tecnologia de Votorantim  
 
 ### **Experiência Profissional:**
 **Auxiliar de Montagem (Produção)**  
