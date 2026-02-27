@@ -1,7 +1,7 @@
 **Murilo Leopisi de Camargo**  
 Sorocaba, SP  
 +55 15 99135-9186  
-muriloleopisi1@gmail.com
+muriloleopisi1@gmail.com  
 [GitHub](https://github.com/Niximkk) - [Linkedin](https://www.linkedin.com/in/niximkk/)
 
 ### **Objetivo Profissional:**
