@@ -48,6 +48,10 @@ O projeto possui estrutura modular, menu interativo e múltiplos modos de execu�
 **Tecnologias Utilizadas:** JavaScript (ES6+), Bookmarklet, DOM API, Monkey Patching, Git  
 [Repositório GitHub](https://github.com/Niximkk/khanware)
 
+### **Eventos e Conferências:**
+
+  - [BSides São Paulo 2026](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Evento%20-%20BSides%20SP%202026.pdf), Participação em palestras e atividades práticas voltadas à segurança ofensiva, hardware hacking e pesquisa em vulnerabilidades. (17/05/2026)
+
 ### **Conquistas em Bug Bounty:**
 
 **M5Burner Endpoints Vulnerability**  
