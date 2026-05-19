@@ -2,7 +2,7 @@
 Sorocaba, SP  
 +55 15 99135-9186  
 muriloleopisi1@gmail.com  
-[GitHub](https://github.com/Niximkk) - [Linkedin](https://www.linkedin.com/in/niximkk/)
+[GitHub](https://github.com/Niximkk) • [Linkedin](https://www.linkedin.com/in/niximkk/)
 
 ### **Objetivo Profissional:**
 Atuar nas áreas de desenvolvimento de software, segurança cibernética e hardware embarcado, aplicando conhecimentos em programação, análise de sistemas e pesquisa em segurança ofensiva.
