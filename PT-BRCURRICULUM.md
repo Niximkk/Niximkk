@@ -5,7 +5,7 @@ muriloleopisi1@gmail.com
 [GitHub](https://github.com/Niximkk) - [Linkedin](https://www.linkedin.com/in/niximkk/)
 
 ### **Objetivo Profissional:**
-Técnico em Desenvolvimento de Sistemas, com foco em programação e segurança cibernética, buscando oportunidade para aplicar e aprimorar conhecimentos em desenvolvimento de software e hardware, contribuindo para soluções tecnológicas inovadoras na área de TI.
+Atuar nas áreas de desenvolvimento de software, segurança cibernética e hardware embarcado, aplicando conhecimentos em programação, análise de sistemas e pesquisa em segurança ofensiva.
 
 ### **Formação Acadêmica:**
 **Tecnólogo em Cibersegurança**  
@@ -25,26 +25,24 @@ FIEC - Fundação Indaiatubana de Educação e Cultura
 Flex – Sorocaba, SP  
 2026 - 2027  
 
-Possuo experiência prática por meio de projetos pessoais, colaborativos e contrato profissional com início previsto, aplicando conhecimentos técnicos, disciplina operacional e aprendizado contínuo.
+Atuação em ambiente industrial com foco em processos produtivos, organização operacional e trabalho em equipe.
 
+Experiência complementar adquirida através de projetos pessoais, open source e pesquisa independente em desenvolvimento de software e segurança cibernética.
 
 ### **Projetos Pessoais e Acadêmicos:**
 
 **F-Nemo**
-Um fork avançado do projeto M5Nemo, focado em hardware hacking para microcontroladores ESP32, especificamente devboards da M5Stack. O projeto foi adaptado com novas funcionalidades requisitadas pela comunidade, visando aprimorar o potencial de exploração de hardware. O diferencial deste projeto é a ênfase em capacitar os usuários a compilar seu próprio firmware, promovendo o aprendizado independente e a personalização.  
+Fork do projeto M5Nemo voltado a hardware hacking com ESP32 e dispositivos M5Stack, adicionando funcionalidades requisitadas pela comunidade e melhorias no firmware.  
 **Tecnologias Utilizadas:** Arduino IDE, C++  
 [Repositório GitHub](https://github.com/Niximkk/f-nemo)
 
 **Bruce**
-Participei no desenvolvimento do firmware Bruce, uma solução robusta para hacking de hardware, abrangendo tecnologias como radiofrequência, infravermelho e RFID. Este projeto, tornou-se um dos mais completos na comunidade de segurança cibernética, e hoje sou um dos desenvolvedores voluntários dedicados a expandir suas capacidades.  
+Contribuição no desenvolvimento de firmware open source para hardware hacking envolvendo RFID, infravermelho e radiofrequência em dispositivos ESP32.  
 **Tecnologias Utilizadas:** Visual Studio Code, PlatformIO, C++  
 [Repositório GitHub](https://github.com/Niximkk/LilBruce)
 
 **Khanware**  
-Script injetável via bookmarklet voltado ao estudo e aplicação de técnicas avançadas de modificação de aplicações web no lado do cliente. Utiliza JavaScript para monkey patching, manipulação do DOM e interceptação de funções em tempo de execução, permitindo alterar dinamicamente o comportamento do site diretamente no navegador.
-
-O projeto possui estrutura modular, menu interativo e múltiplos modos de execução, com foco no aprofundamento em JavaScript avançado e análise de aplicações web complexas.
-
+Projeto em JavaScript voltado à modificação dinâmica de aplicações web via bookmarklet, utilizando monkey patching, manipulação do DOM e interceptação de funções em tempo de execução.  
 **Tecnologias Utilizadas:** JavaScript (ES6+), Bookmarklet, DOM API, Monkey Patching, Git  
 [Repositório GitHub](https://github.com/Niximkk/khanware)
 
@@ -55,7 +53,7 @@ O projeto possui estrutura modular, menu interativo e múltiplos modos de execu�
 ### **Conquistas em Bug Bounty:**
 
 **M5Burner Endpoints Vulnerability**  
-Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, que permitiam a execução remota de comandos maliciosos através da manipulação de interfaces REST. Este trabalho resultou na criação de um exploit que foi reconhecido e recompensado em um programa de bug bounty. A documentação completa, incluindo o método de exploração, está disponível no repositório.  
+Identificação de vulnerabilidades em endpoints do M5Burner envolvendo execução remota de comandos via interfaces REST. O reporte resultou em reconhecimento dentro do programa de bug bounty do projeto.
 [Documentação GitHub](https://github.com/Niximkk/m5burner-endpoints)
 
 ### **Idiomas:**
@@ -63,8 +61,9 @@ Identifiquei e explorei vulnerabilidades críticas nos endpoints do M5Burner, qu
 
 ### **Habilidades Técnicas:**
 - **Linguagens:** JavaScript, C++, Python, Lua, HTML, CSS
-- **Ferramentas:** Visual Studio Code, NodeJS, NPM, PKG, Arduino IDE, PlatformIO, Git, GitHub
-- **Outras Competências:** Uso de Inteligência Artificial para otimização de processos e resolução de problemas complexos
+- **Frameworks/Ferramentas:** Node.js, NPM, Git, GitHub, PlatformIO, Arduino IDE, VS Code
+- **Áreas de Interesse:** Segurança ofensiva, hardware hacking, desenvolvimento web, firmware embarcado
+- **Sistemas:** Linux, Windows
 - **Certificações:** 
   - [Curso online SENAI "Por Dentro da Segurança Cibernética"](https://www.sp.senai.br/consulta-certificado?qrcode=00027511/7777700), duração de 4 horas (17/05/2024 a 18/05/2024)
   - [Curso online SENAI "Competência Transversal - Lógica De Programação"](https://www.sp.senai.br/consulta-certificado?qrcode=00027091/7777700), duração de 14 horas (03/09/2024 a 04/09/2024)
