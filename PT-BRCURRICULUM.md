@@ -76,6 +76,6 @@ Identificação de vulnerabilidades em endpoints do M5Burner envolvendo execuç�
 ### **Experiência Profissional:**
 **Auxiliar de Montagem (Produção)**  
 Flex – Sorocaba, SP  
-2026 - 2027  
+01/2026 - 06/2026  
 
 Atuação em ambiente industrial com foco em processos produtivos, organização operacional e trabalho em equipe.
