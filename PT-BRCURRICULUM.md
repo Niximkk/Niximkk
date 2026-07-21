@@ -71,7 +71,7 @@ Identificação de vulnerabilidades em endpoints do M5Burner envolvendo execuç�
 - Fundação Bradesco - [Segurança em Tecnologia da Informação](https://github.com/Niximkk/Niximkk/blob/main/Certificados/Certificado%20-%20SEGURAN%C3%87A%20EM%20TECNOLOGIA%20DA%20INFORMA%C3%87%C3%A3O.pdf)
 
 ### **Idiomas:**
-- **Inglês:** Leitura técnica avançada, comunicação escrita e compreensão oral em ambientes técnicos.
+- **Inglês:** C2 (CEFR) ([EF SET Certificate](https://cert.efset.org/7Gs55Q))
 
 ### **Experiência Profissional:**
 **Auxiliar de Montagem (Produção)**  
