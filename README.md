@@ -58,7 +58,6 @@
 | [**F-Nemo**](https://github.com/Niximkk/f-nemo)                         | Cybersecurity / Hardware     |
 | [**Khanware**](https://github.com/Niximkk/khanware)                     | JavaScript / Web Security    |
 | [**M5Burner Endpoints**](https://github.com/Niximkk/m5burner-endpoints) | Vulnerability Research       |
-| [**Canaryo**](https://github.com/Niximkk/canaryo) *(in development)*    | JavaScript Runtime / Systems |
 
 </td>
 <td width="45%" valign="top">
